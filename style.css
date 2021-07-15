@@ -1,0 +1,82 @@
+body{
+  text-align: center;
+    background-color: cyan;
+}
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+}
+
+#earth{
+    width: 100%;
+    border: 3px solid white;
+}
+
+
+
+
+
+.links{
+    float: right;
+    color: transparent;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    border: 2px solid aqua;
+    margin-right: 45px;
+    }
+
+    .my_nav_bar{
+        position: sticky;
+        top:0;
+        z-index: 99999;
+    }
+
+    #menulinks{
+        text-decoration: none;
+        color: blue;
+    }
+
+   
+  #p1{
+      font-size: 30px;
+      color: rgba(68, 30, 156, 0.685);
+      text-align: justify;
+  }
+     
+
+  #AP{
+      margin-right: 700px ;
+      font-size: 30px;
+  }
+
+  #WP{
+      margin-right: 700px;
+      font-size: 30px;
+  }
+
+  #SP{
+      margin-right: 700px;
+      font-size: 30px;
+  }
+   
+
+  #NP{
+    margin-right: 700px;
+    font-size: 30px;
+  }
+
+
+
+  #footer1{
+      background-color: black;
+      
+  }
+
+iframe{
+     width: 100%;
+ }
